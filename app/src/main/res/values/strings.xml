@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">utestotp</string>
+    <string name="newp">New Patient </string>
+    <string name="oldp">Existing Patient</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "243887920481",
+    "firebase_url": "https://utest-ce570.firebaseio.com",
+    "project_id": "utest-ce570",
+    "storage_bucket": "utest-ce570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243887920481:android:a5f11fcb3be770ca",
+        "android_client_info": {
+          "package_name": "com.example.utestotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243887920481-9ll2epi4jl8n51936qqvpo04899915ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBZt7WfvdHqn9M146qMAmIIRGP5J9q_Es"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

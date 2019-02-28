@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="radius">2dp</dimen>
+    <dimen name="radius1">4dp</dimen>
+    <dimen name="radius2">3dp</dimen>
+    <dimen name="margin0">-20dp</dimen>
+    <dimen name="margin">12dp</dimen>
+    <dimen name="margin2">5dp</dimen>
+    <dimen name="margin1">15dp</dimen>
+    <dimen name="margin4">7dp</dimen>
+    <dimen name="margin3">100dp</dimen>
+    <dimen name="margin5">14dp</dimen>
+    <dimen name="margin6">20dp</dimen>
+    <dimen name="height">40dp</dimen>
+    <dimen name="height1">30dp</dimen>
+    <dimen name="height2">50dp</dimen>
+    <dimen name="height3">25dp</dimen>
+    <dimen name="height4">150dp</dimen>
+    <dimen name="height5">200dp</dimen>
+    <dimen name="height6">60dp</dimen>
+    <dimen name="height7">70dp</dimen>
+    <dimen name="textsize">18sp</dimen>
+    <dimen name="textsize1">12sp</dimen>
+    <dimen name="textsize3">15sp</dimen>
+    <dimen name="textsize4">20sp</dimen>
+    <dimen name="textsize5">9sp</dimen>
+    <dimen name="textsize6">30sp</dimen>
+    <dimen name="textsize7">35sp</dimen>
+    <dimen name="emoji">18sp</dimen>
+    <dimen name="emoji1">20sp</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <dimen name="divider">1dp</dimen>
+    <item name="check_box_scale" format="float" type="dimen">.75</item>
+
+</resources>
